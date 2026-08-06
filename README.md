@@ -1,69 +1,85 @@
-# Hi there 👋, I'm Prasad Kadam
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">🚀 AI & Machine Learning Engineer | Computer Vision Enthusiast | Python Developer</h3>
 
-## 🚀 AI & Machine Learning Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Building+Real-World+AI+Projects" />
+</p>
 
-I'm passionate about building intelligent systems that solve real-world problems using Artificial Intelligence and Machine Learning. I enjoy working on end-to-end ML projects, deep learning, computer vision, and data science.
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 👨‍💻 About Me
 
-### Programming Languages
-- Python
-- SQL
-- C++
+- 🎓 AI & Machine Learning Engineer
+- 🤖 Passionate about Artificial Intelligence and Deep Learning
+- 📊 Interested in Data Science, Computer Vision, and Predictive Analytics
+- 🌱 Currently learning Large Language Models (LLMs), MLOps, and AI Agents
+- 🚀 Always building practical AI solutions through hands-on projects
 
-### Machine Learning & AI
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- OpenCV
+---
 
-### Data Science
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,mysql,git,github,vscode,linux" />
+</p>
+
+### Libraries & Tools
+
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-
-### Tools
-- Git
-- GitHub
 - Jupyter Notebook
-- VS Code
 - Google Colab
 
 ---
 
-## 📌 Areas of Interest
+# 🚀 Featured Projects
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Science
+## 🏠 House Price Prediction
 
----
+Machine learning model that predicts house prices using real estate data.
 
-## 🌱 Currently Learning
+### Highlights
+- 📊 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- 🤖 Regression Models
+- 🎯 Accurate Price Prediction
 
-- Large Language Models (LLMs)
-- MLOps
-- AI Agents
-
----
-
-## 📂 Featured Projects
-
-### 🏠 House Price Prediction
-Developed a machine learning model to predict house prices based on property features using data preprocessing, exploratory data analysis (EDA), feature engineering, and regression algorithms.
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
-### 🚗 Self-Driving Car Perception
-Built a computer vision project for autonomous driving using the Udacity Self-Driving Car Dataset, focusing on object detection and road scene understanding.
-
-**Tech Stack:** Python, OpenCV, TensorFlow/PyTorch, NumPy
-
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
 ---
 
-⭐ Thanks for visiting my profile! I'm always eager to learn, collaborate, and build innovative AI and Machine Learning solutions.
+## 🚗 Self-Driving Car (Behavioral Cloning)
+
+Developed an end-to-end deep learning model using the **Udacity Self-Driving Car Simulator Dataset** to predict steering angles from front-facing camera images, enabling autonomous lane following in a simulated driving environment.
+
+### Highlights
+- 🚘 End-to-End Steering Angle Prediction
+- 📷 Camera Image Processing
+- 🛣️ Autonomous Lane Following
+- 🧠 Deep Learning-Based Driving Model
+- 📊 Training & Validation on Driving Data
+
+**Tech:** Python • TensorFlow/Keras • OpenCV • NumPy • Pandas
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat-square"/>
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+<i>"Transforming data into intelligent solutions through AI & Machine Learning."</i>
+</p>
