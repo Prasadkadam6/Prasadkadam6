@@ -53,6 +53,8 @@ Machine learning model that predicts house prices using real estate data.
 - 🤖 Regression Models
 - 🎯 Accurate Price Prediction
 
+[![Streamlit App](https://house-price-prediction-ncudasdhyprkmoqqtripmy.streamlit.app/)
+
 **Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
 ---
