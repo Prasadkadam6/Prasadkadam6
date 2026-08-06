@@ -19,7 +19,7 @@
 - 🎓 AI & Machine Learning Engineer
 - 🤖 Passionate about Artificial Intelligence and Deep Learning
 - 📊 Interested in Data Science, Computer Vision, and Predictive Analytics
-- 🌱 Currently learning Large Language Models (LLMs), MLOps, and AI Agents
+- 🌱 Currently learning Large Language Models (LLMs), and AI Agents
 - 🚀 Always building practical AI solutions through hands-on projects
 
 ---
@@ -27,7 +27,7 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,mysql,git,github,vscode,linux" />
 </p>
 
 ### Libraries & Tools
