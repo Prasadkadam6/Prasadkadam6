@@ -53,7 +53,6 @@ Machine learning model that predicts house prices using real estate data.
 - 🤖 Regression Models
 - 🎯 Accurate Price Prediction
 
-[Click here to open the Streamlit Web App](https://house-price-prediction-ncudasdhyprkmoqqtripmy.streamlit.app/)
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
@@ -61,7 +60,7 @@ Machine learning model that predicts house prices using real estate data.
 
 ## 🚗 Self-Driving Car (Behavioral Cloning)
 
-Developed an end-to-end deep learning model using the **Udacity Self-Driving Car Simulator Dataset** to predict steering angles from front-facing camera images, enabling autonomous lane following in a simulated driving environment.
+Developed an end-to-end deep learning model usin the **Udacity Self-Driving Car Simulator Dataset** to predict steering angles from front-facing camera images, enabling autonomous lane following in a simulated driving environment.
 
 ### Highlights
 - 🚘 End-to-End Steering Angle Prediction
